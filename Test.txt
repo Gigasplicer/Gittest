@@ -1,0 +1,6 @@
+Upload verification.
+$ git config --global user.name "Gigasplicer"
+$ git config --global user.email andy.mccormick10@gmail.com
+
+amccormick@SEDW-W10-009 MINGW64 /c/Users/amccormick/GitTest
+$ git clone https://github.com/Gigasplicer/Gittest.git
